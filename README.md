@@ -1,3 +1,3 @@
 ## Eletronica Embarcada
 
-Repositório referente a matéria de Sistemas Embarcados 
+Repositório referente a matéria de Eletronica Embarcada
